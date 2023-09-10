@@ -8,5 +8,4 @@ justify-content: center;
 column-gap: 30px;
 row-gap: 10px;
 text-align: center;
-
 `

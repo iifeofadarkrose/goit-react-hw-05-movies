@@ -24,7 +24,8 @@ export const StyledNavLink = styled(NavLink)`
 
 &.active {
 border-color: black;
-background-color: white;
+background-color: gray;
+background-image: none;
 }
 
 `

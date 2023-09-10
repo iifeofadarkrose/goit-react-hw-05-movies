@@ -16,8 +16,9 @@ const MoviesSearchingList = ({ searchList }) => {
   );
 };
 
-export default MoviesSearchingList;
 
 MoviesSearchingList.propTypes = {
   searchList: PropTypes.array,
 };
+
+export default MoviesSearchingList;
